@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_user">
+
+    <fragment
+        android:id="@+id/nav_user"
+        android:name="com.example.addlesson_37_retrofit.second_activity.ui.home_user.user_list.UserFragment"
+        android:label="User"
+        tools:layout="@layout/fragment_user" />
+    <fragment
+        android:id="@+id/nav_albums"
+        android:name="com.example.addlesson_37_retrofit.second_activity.ui.album.AlbumsFragment"
+        android:label="Albums"
+        tools:layout="@layout/fragment_albums" />
+
+    <fragment
+        android:id="@+id/nav_photos"
+        android:name="com.example.addlesson_37_retrofit.second_activity.ui.photos.PhotosFragment"
+        android:label="Photos"
+        tools:layout="@layout/fragment_photos" />
+
+
+</navigation>
