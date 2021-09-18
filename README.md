@@ -14,6 +14,6 @@ Bundan ko'zlangan maqsad, retrofit orqali biz kerakli ma'lumotlarni bemalol olis
 ![album page](https://user-images.githubusercontent.com/82223231/133873177-048cdcb6-2814-4a24-bff1-cea99a005221.jpg)
 ![photos page](https://user-images.githubusercontent.com/82223231/133873196-82b74285-10e6-44b7-bc08-6be47c023431.jpg)
 
-Bu natijaga erishishning osonroq tomoni shundaki bunda men ViewModel Va LiveData dan foydalandim. Bu esa  Fragment va Activity uchun ancha qulay sanaladi. 
+Bu natijaga erishishning osonroq tomoni shundaki bunda men ViewModel Va LiveData dan foydalandim. Bu esa  Fragment va Activity lar bilan ishlash  uchun ancha qulay sanaladi. 
 
 
